@@ -1,20 +1,20 @@
-[![Contributors](https://img.shields.io/github/contributors/cobbr/RedWolf)](https://github.com/cobbr/RedWolf/graphs/contributors)
-[![Commit Activity](https://img.shields.io/github/commit-activity/w/cobbr/RedWolf)](https://github.com/cobbr/RedWolf/graphs/commit-activity)
-[![Stars](https://img.shields.io/github/stars/cobbr/RedWolf)](https://github.com/cobbr/RedWolf/stargazers)
-[![License](https://img.shields.io/github/license/cobbr/RedWolf)](https://github.com/cobbr/RedWolf/blob/master/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/Kitsun3Sec/RedWolf)](https://github.com/Kitsun3Sec/RedWolf/graphs/contributors)
+[![Commit Activity](https://img.shields.io/github/commit-activity/w/Kitsun3Sec/RedWolf)](https://github.com/Kitsun3Sec/RedWolf/graphs/commit-activity)
+[![Stars](https://img.shields.io/github/stars/Kitsun3Sec/RedWolf)](https://github.com/Kitsun3Sec/RedWolf/stargazers)
+[![License](https://img.shields.io/github/license/Kitsun3Sec/RedWolf)](https://github.com/Kitsun3Sec/RedWolf/blob/master/LICENSE)
 [![Chat](https://img.shields.io/badge/chat-%23RedWolf-red)](https://bloodhoundgang.herokuapp.com/)
 
 Red Wolf is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.
 
 RedWolf is an ASP.NET Core, cross-platform application that includes a web-based interface that allows for multi-user collaboration.
 
-![RedWolf Dashboard](https://github.com/cobbr/RedWolf/wiki/images/RedWolf-gui-dashboard.png)
+![RedWolf Dashboard](https://github.com/Kitsun3Sec/RedWolf/wiki/images/RedWolf-gui-dashboard.png)
 
 ## Quick-Start Guide
 
-Please see the [Installation and Startup](https://github.com/cobbr/RedWolf/wiki/Installation-And-Startup) guide to get started with RedWolf!
+Please see the [Installation and Startup](https://github.com/Kitsun3Sec/RedWolf/wiki/Installation-And-Startup) guide to get started with RedWolf!
 
-The [Wiki](https://github.com/cobbr/RedWolf/wiki) documents most of RedWolf's core features and how to use them.
+The [Wiki](https://github.com/Kitsun3Sec/RedWolf/wiki) documents most of RedWolf's core features and how to use them.
 
 ## Features
 
