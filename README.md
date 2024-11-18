@@ -8,8 +8,6 @@ Red Wolf is a .NET command and control framework that aims to highlight the atta
 
 RedWolf is an ASP.NET Core, cross-platform application that includes a web-based interface that allows for multi-user collaboration.
 
-![RedWolf Dashboard](https://github.com/Kitsun3Sec/RedWolf/wiki/images/RedWolf-gui-dashboard.png)
-
 ## Quick-Start Guide
 
 Please see the [Installation and Startup](https://github.com/Kitsun3Sec/RedWolf/wiki/Installation-And-Startup) guide to get started with RedWolf!
